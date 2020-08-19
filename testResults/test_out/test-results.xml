@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<testsuite name="Chrome Headless 84.0.4147.125 (Windows 10)" package="unit" timestamp="2020-08-19T22:36:54" id="0" hostname="1L2-JTREJO" tests="5" errors="0" failures="0" time="0.336">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/84.0.4147.125 Safari/537.36"/>
+  </properties>
+  <testcase name="AppComponent should render title" time="0.261" classname=".AppComponent"/>
+  <testcase name="AppComponent should create the app" time="0.034" classname=".AppComponent"/>
+  <testcase name="AppComponent should have as title 'angular-test-trace'" time="0.033" classname=".AppComponent"/>
+  <testcase name="ApiTestService should be created" time="0.008" classname=".ApiTestService"/>
+  <testcase name="User should create an instance" time="0" classname=".User"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
